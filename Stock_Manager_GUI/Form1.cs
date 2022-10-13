@@ -16,5 +16,46 @@ namespace Stock_Manager_GUI
         {
             InitializeComponent();
         }
+
+        private void menuStrip2_ItemClicked(object sender, ToolStripItemClickedEventArgs e)
+        {
+
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void panel1_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void home_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void panel3_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void button7_Click(object sender, EventArgs e)
+        {
+            Sale i = new Sale();
+                flowLayoutPanel1.Controls.Add(i);
+        }
     }
 }

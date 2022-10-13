@@ -1,0 +1,12 @@
+C:\Users\lulag\source\repos\Stock-Manager\Stock_Manager_GUI\bin\Debug\Stock_Manager_GUI.exe.config
+C:\Users\lulag\source\repos\Stock-Manager\Stock_Manager_GUI\bin\Debug\Stock_Manager_GUI.exe
+C:\Users\lulag\source\repos\Stock-Manager\Stock_Manager_GUI\bin\Debug\Stock_Manager_GUI.pdb
+C:\Users\lulag\source\repos\Stock-Manager\Stock_Manager_GUI\obj\Debug\Stock_Manager_GUI.csproj.AssemblyReference.cache
+C:\Users\lulag\source\repos\Stock-Manager\Stock_Manager_GUI\obj\Debug\Stock_Manager_GUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\lulag\source\repos\Stock-Manager\Stock_Manager_GUI\obj\Debug\Stock_Manager_GUI.Form1.resources
+C:\Users\lulag\source\repos\Stock-Manager\Stock_Manager_GUI\obj\Debug\Stock_Manager_GUI.Properties.Resources.resources
+C:\Users\lulag\source\repos\Stock-Manager\Stock_Manager_GUI\obj\Debug\Stock_Manager_GUI.csproj.GenerateResource.cache
+C:\Users\lulag\source\repos\Stock-Manager\Stock_Manager_GUI\obj\Debug\Stock_Manager_GUI.csproj.CoreCompileInputs.cache
+C:\Users\lulag\source\repos\Stock-Manager\Stock_Manager_GUI\obj\Debug\Stock_Manager_GUI.exe
+C:\Users\lulag\source\repos\Stock-Manager\Stock_Manager_GUI\obj\Debug\Stock_Manager_GUI.pdb
+C:\Users\lulag\source\repos\Stock-Manager\Stock_Manager_GUI\obj\Debug\Stock_Manager_GUI.Sale.resources
