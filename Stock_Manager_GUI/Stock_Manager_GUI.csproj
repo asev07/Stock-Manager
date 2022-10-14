@@ -47,11 +47,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Form1.cs">
+    <Compile Include="Addproductcatagory.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <Compile Include="Addproductcatagory.Designer.cs">
+      <DependentUpon>Addproductcatagory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="signinpage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="signinpage.Designer.cs">
+      <DependentUpon>signinpage.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -61,13 +67,19 @@
     <Compile Include="Sale.Designer.cs">
       <DependentUpon>Sale.cs</DependentUpon>
     </Compile>
+    <Compile Include="SuperMarcketDataSet.cs">
+      <DependentUpon>SuperMarcketDataSet.xsd</DependentUpon>
+    </Compile>
     <Compile Include="SuperMarcketDataSet.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>SuperMarcketDataSet.xsd</DependentUpon>
     </Compile>
-    <EmbeddedResource Include="Form1.resx">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <EmbeddedResource Include="Addproductcatagory.resx">
+      <DependentUpon>Addproductcatagory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="signinpage.resx">
+      <DependentUpon>signinpage.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
