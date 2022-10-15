@@ -11,3 +11,7 @@ C:\Users\lulag\source\repos\Stock-Manager\Stock_Manager_GUI\obj\Debug\Stock_Mana
 C:\Users\lulag\source\repos\Stock-Manager\Stock_Manager_GUI\obj\Debug\Stock_Manager_GUI.Sale.resources
 C:\Users\lulag\Source\Repos\Stock-Manager\Stock_Manager_GUI\obj\Debug\Stock_Manager_GUI.addproductcatagory.resources
 C:\Users\lulag\Source\Repos\Stock-Manager\Stock_Manager_GUI\obj\Debug\Stock_Manager_GUI.signinpage.resources
+C:\Users\user\Desktop\c#\super market project\Stock-Manager\Stock_Manager_GUI\obj\Debug\Stock_Manager_GUI.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\c#\super market project\Stock-Manager\Stock_Manager_GUI\obj\Debug\Stock_Manager_GUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\c#\super market project\Stock-Manager\Stock_Manager_GUI\obj\Debug\Stock_Manager_GUI.exe
+C:\Users\user\Desktop\c#\super market project\Stock-Manager\Stock_Manager_GUI\obj\Debug\Stock_Manager_GUI.pdb

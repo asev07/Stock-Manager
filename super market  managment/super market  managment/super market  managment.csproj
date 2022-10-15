@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{1486FA8F-8476-49FF-995E-3212D845BCF4}</ProjectGuid>
+    <ProjectGuid>{FCD23C3A-6F5C-4974-B89A-7A267EEE5241}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>Stock_Manager_GUI</RootNamespace>
-    <AssemblyName>Stock_Manager_GUI</AssemblyName>
+    <RootNamespace>super_market__managment</RootNamespace>
+    <AssemblyName>super market  managment</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -35,7 +35,6 @@
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
-    <Reference Include="System.ServiceProcess" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -47,48 +46,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Addproductcatagory.cs">
+    <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Addproductcatagory.Designer.cs">
-      <DependentUpon>Addproductcatagory.cs</DependentUpon>
-    </Compile>
-    <Compile Include="employeemanagment.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="employeemanagment.Designer.cs">
-      <DependentUpon>employeemanagment.cs</DependentUpon>
-    </Compile>
-    <Compile Include="signinpage.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="signinpage.Designer.cs">
-      <DependentUpon>signinpage.cs</DependentUpon>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Sale.cs">
-      <SubType>UserControl</SubType>
-    </Compile>
-    <Compile Include="Sale.Designer.cs">
-      <DependentUpon>Sale.cs</DependentUpon>
-    </Compile>
-    <Compile Include="SuperMarcketDataSet.cs">
-      <DependentUpon>SuperMarcketDataSet.xsd</DependentUpon>
-    </Compile>
-    <Compile Include="SuperMarcketDataSet.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>SuperMarcketDataSet.xsd</DependentUpon>
-    </Compile>
-    <EmbeddedResource Include="Addproductcatagory.resx">
-      <DependentUpon>Addproductcatagory.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="employeemanagment.resx">
-      <DependentUpon>employeemanagment.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="signinpage.resx">
-      <DependentUpon>signinpage.cs</DependentUpon>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -99,9 +66,6 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
-    <EmbeddedResource Include="Sale.resx">
-      <DependentUpon>Sale.cs</DependentUpon>
-    </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
@@ -111,23 +75,9 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
-    <None Include="SuperMarcketDataSet.xsc">
-      <DependentUpon>SuperMarcketDataSet.xsd</DependentUpon>
-    </None>
-    <None Include="SuperMarcketDataSet.xsd">
-      <Generator>MSDataSetGenerator</Generator>
-      <LastGenOutput>SuperMarcketDataSet.Designer.cs</LastGenOutput>
-      <SubType>Designer</SubType>
-    </None>
-    <None Include="SuperMarcketDataSet.xss">
-      <DependentUpon>SuperMarcketDataSet.xsd</DependentUpon>
-    </None>
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-  </ItemGroup>
-  <ItemGroup>
-    <WCFMetadata Include="Connected Services\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

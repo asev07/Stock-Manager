@@ -1,8 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Stock_Manager_GUI"
+    "\\Stock_Manager_GUI",
+    "\\super market  managment",
+    "\\super market  managment\\super market  managment"
   ],
-  "SelectedNode": "\\Stock_Manager_GUI\\Stock_Manager_GUI.sln",
+  "SelectedNode": "\\super market  managment\\super market  managment\\Form1.cs",
   "PreviewInSolutionExplorer": false
 }
