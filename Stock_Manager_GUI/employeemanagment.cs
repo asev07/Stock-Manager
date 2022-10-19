@@ -104,6 +104,7 @@ namespace Stock_Manager_GUI
            
            
             getemployeerecord();
+           
         }
 
         private void btn_update_Click(object sender, EventArgs e)

@@ -15,3 +15,7 @@ C:\Users\user\Desktop\c#\super market project\Stock-Manager\Stock_Manager_GUI\ob
 C:\Users\user\Desktop\c#\super market project\Stock-Manager\Stock_Manager_GUI\obj\Debug\Stock_Manager_GUI.csproj.SuggestedBindingRedirects.cache
 C:\Users\user\Desktop\c#\super market project\Stock-Manager\Stock_Manager_GUI\obj\Debug\Stock_Manager_GUI.exe
 C:\Users\user\Desktop\c#\super market project\Stock-Manager\Stock_Manager_GUI\obj\Debug\Stock_Manager_GUI.pdb
+C:\Users\M\Desktop\Elias\assignments\Stock-Manager\Stock_Manager_GUI\obj\Debug\Stock_Manager_GUI.csproj.AssemblyReference.cache
+C:\Users\M\Desktop\Elias\assignments\Stock-Manager\Stock_Manager_GUI\obj\Debug\Stock_Manager_GUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\M\Desktop\Elias\assignments\Stock-Manager\Stock_Manager_GUI\obj\Debug\Stock_Manager_GUI.exe
+C:\Users\M\Desktop\Elias\assignments\Stock-Manager\Stock_Manager_GUI\obj\Debug\Stock_Manager_GUI.pdb
